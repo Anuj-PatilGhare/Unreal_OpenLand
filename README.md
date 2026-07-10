@@ -99,17 +99,6 @@ Watch the complete gameplay demonstration below:
 
 ---
 
-# 🎯 Project Objective
-
-The objective of this project was to:
-
-* Design a complete exploration environment.
-* Create a fully functional hover platform using Blueprint logic.
-* Build smooth movement mechanics for the platform.
-* Learn Blueprint communication and reusable gameplay systems.
-
----
-
 # 🎮 Gameplay Features
 
 * 🌍 Open environment for exploration
