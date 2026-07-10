@@ -8,7 +8,7 @@
 
 **OpenLand** is a Blueprint-driven Unreal Engine 5 project focused on creating an interactive open environment where players can freely explore using a custom-built hover platform.
 
-The primary goal of this project was to design and implement gameplay systems entirely with **Blueprints**, while gaining practical experience in level design, Blueprint architecture, actor communication, collision handling, and player interaction.
+The primary goal of this project was to **Learn** design and implement gameplay systems entirely with **Blueprints**, while gaining practical experience in level design, Blueprint architecture, actor communication, collision handling, and player interaction.
 
 The environment was built using high-quality Unreal Engine assets to create an engaging world that showcases both gameplay mechanics and environmental design.
 
