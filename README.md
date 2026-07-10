@@ -28,13 +28,74 @@ This repository is intended to showcase my **Blueprint implementation, gameplay 
 
 The complete Unreal Engine project is available for download using the link below.
 
-**🔗 Google Drive:** *(Add your Google Drive download link here.)*
+**🔗 Google Drive :** *(https://drive.google.com/file/d/13vs34yTkGmqSpmk0hX8Ca-1oBG_HN5-k/view?usp=sharing)*
 
 The downloadable archive includes:
 
 * ✅ Complete Unreal Engine 5 project
 * ✅ Character assets
 * ✅ Everything required to open and run the project
+
+
+---
+
+# 🌍 Environment Design
+
+The project features a complete exploration level created using Unreal Engine assets.
+
+The environment includes:
+
+* Detailed landscape
+The level was designed to provide a smooth exploration experience while demonstrating the hover platform mechanics throughout the environment.
+
+---
+
+# 📸 Screenshots
+
+Screenshot_1 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/ScreenShot_2.png)
+
+Screenshot_2 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/ScreenShot_3.png)
+
+Screenshot_3 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/ScreenShot_4.png)
+
+Screenshot_4 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/ScreenShot_5.png)
+
+Screenshot_5 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/ScreenShot_7.png)
+
+Screenshot_6 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/ScreenShot_8.png)
+
+--
+
+### 🎮 Bluprints :
+
+Bluprints_1 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/BP_ScreenShot_1.png)
+
+Bluprints_2 ( Input Controlls) :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/BP_ScreenShot_2.png)
+
+Bluprints_3  ( Platform Controll ):
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/BP_ScreenShot_3.png)
+
+Bluprints_4 ( Platform Speed Interpolation ) :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/BP_ScreenShot_4.png)
+
+Bluprints_5 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/c23a7a1d4a74657d43e15dc7a6dad6d8753c070c/GamePlay/BP_ScreenShot_5.png)
+
+---
+
+# 🎥 Gameplay Video
+
+Watch the complete gameplay demonstration below:
+
+**▶ Gameplay Video:** *(Add your YouTube or Google Drive link here.)*
 
 ---
 
@@ -45,7 +106,6 @@ The objective of this project was to:
 * Design a complete exploration environment.
 * Create a fully functional hover platform using Blueprint logic.
 * Build smooth movement mechanics for the platform.
-* Allow seamless interaction between the player and the platform.
 * Learn Blueprint communication and reusable gameplay systems.
 
 ---
@@ -83,39 +143,6 @@ Implemented systems include:
 
 ---
 
-# 🌍 Environment Design
-
-The project features a complete exploration level created using Unreal Engine assets.
-
-The environment includes:
-
-* Detailed landscape
-The level was designed to provide a smooth exploration experience while demonstrating the hover platform mechanics throughout the environment.
-
----
-
-# 📦 Assets Used
-
-The project uses high-quality Unreal Engine assets to build the environment and gameplay scene.
-
-### Environment Assets
-
-* *(Add Asset Pack Name)*
-
-### Character Assets
-
-* *(Add Character Asset Name)*
-
-### Props & Decorative Assets
-
-* *(Add Asset Pack Name)*
-
-### Materials & Textures
-
-* *(Add Asset Pack Name)*
-
----
-
 # 📚 Unreal Engine Concepts Practiced
 
 * Blueprint Visual Scripting
@@ -124,16 +151,10 @@ The project uses high-quality Unreal Engine assets to build the environment and 
 * Actor Blueprints
 * Components
 * Event Graph
-* Functions
-* Variables
 * Custom Events
 * Blueprint Communication
 * Collision System
-* Character Movement
 * World Outliner
-* Level Blueprint
-* Level Design
-* Project Organization
 
 ---
 
@@ -142,88 +163,13 @@ The project uses high-quality Unreal Engine assets to build the environment and 
 Through this project I gained practical experience in:
 
 * Building complete gameplay systems using Blueprints
+*  Blueprint Visual Scripting
 * Designing reusable Blueprint architecture
 * Creating custom movement mechanics
 * Developing a hover platform system
 * Managing Blueprint communicatio
 * Creating immersive Unreal Engine environments
 
----
-
-# 📈 Skills Demonstrated
-
-* Unreal Engine 5
-* Blueprint Visual Scripting
-* Gameplay Programming
-* Hover Platform Development
-* Blueprint Communication
-* Level Design
-* Environment Creation
-* Game Logic Development
-* Version Control with GitHub
-
----
-
-# 📸 Screenshots
-
-> *(Add your screenshots here.)*
-
-### 🌍 Environment Overview
-
-*(Insert Screenshot)*
-
-### 🚀 Hover Platform
-
-*(Insert Screenshot)*
-
-### 🎮 Gameplay
-
-*(Insert Screenshot)*
-
-### 🏞️ Exploration Area
-
-*(Insert Screenshot)*
-
-### 🌅 Environment Showcase
-
-*(Insert Screenshot)*
-
----
-
-# 🎥 Gameplay Video
-
-Watch the complete gameplay demonstration below:
-
-**▶ Gameplay Video:** *(Add your YouTube or Google Drive link here.)*
-
----
-
-# 📂 Repository Information
-
-To keep this repository lightweight and easy to browse, **only my project Blueprints, configuration files, and essential project resources have been uploaded**.
-
-The complete Unreal Engine project contains several gigabytes of assets, including environment models, materials, textures, meshes, and other content used to build the level. Including all of these files would make the repository unnecessarily large.
-
-This repository is intended to showcase my **Blueprint implementation, gameplay logic, project organization, and Unreal Engine development workflow**.
-
----
-
-# 📦 Complete Project Download
-
-The complete Unreal Engine project is available for download using the link below.
-
-**🔗 Google Drive:** *(Add your Google Drive download link here.)*
-
-The downloadable archive includes:
-
-* ✅ Complete Unreal Engine 5 project
-* ✅ All Content assets
-* ✅ Blueprint files
-* ✅ Config files
-* ✅ Project settings
-* ✅ Environment assets
-* ✅ Character assets
-* ✅ Everything required to open and run the project
 
 ---
 
@@ -235,21 +181,6 @@ The downloadable archive includes:
 4. Allow Unreal Engine to load the project.
 5. Press **Play** to explore the environment and experience the Blueprint-based hover platform system.
 
----
-
-# 🔮 Future Improvements
-
-Planned enhancements include:
-
-* Save & Load System
-* Interactive UI/HUD
-* Sound Effects & Background Music
-* Dynamic Weather System
-* Additional Exploration Areas
-* AI-Based NPCs
-* Collectibles & Objectives
-* Performance Optimization
-* Enhanced Visual Effects
 
 ---
 
