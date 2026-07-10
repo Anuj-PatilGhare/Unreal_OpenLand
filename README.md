@@ -95,7 +95,7 @@ Bluprints_5 :
 
 Watch the complete gameplay demonstration below:
 
-**▶ Gameplay Video:** *(Add your YouTube or Google Drive link here.)*
+**▶ Gameplay Video:** *(https://github.com/Anuj-PatilGhare/Unreal_OpenLand/blob/38dc1e14d15fba63336594e2e2cc18c0400ce1b3/GamePlay/GamePlay.mp4)*
 
 ---
 
